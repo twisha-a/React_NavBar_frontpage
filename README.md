@@ -1,2 +1,2 @@
-# React_NavBar_frontpage
+# react-frontpage
 Created with CodeSandbox
